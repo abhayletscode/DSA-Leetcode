@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
