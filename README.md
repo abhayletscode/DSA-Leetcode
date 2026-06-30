@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1609-even-odd-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1609-even-odd-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1609-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1609-even-odd-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1609-even-odd-tree) |
 ## Memoization
 |  |
 | ------- |
